@@ -3,3 +3,13 @@
     bottom:0;
     text-align: center;
 }
+.content-box,
+.time-col,
+.save-content{
+    background:lightgrey;
+    border-radius: 2%;
+    border:1px solid black;
+}
+.navbar-light{
+    justify-content: center;
+}
