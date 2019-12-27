@@ -6,10 +6,15 @@
 .content-box,
 .time-col,
 .save-content{
-    background:lightgrey;
+    background:rgb(230, 230, 230);
     border-radius: 2%;
-    border:1px solid black;
+    border:1px solid rgb(41, 41, 41);
 }
 .navbar-light{
     justify-content: center;
+}
+
+.time-col,
+.save-content{
+    text-align: center;
 }
