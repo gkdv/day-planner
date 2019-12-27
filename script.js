@@ -6,3 +6,9 @@ for (i = 0; i < hour.length; i++){
     var index = $('.input-group-prepend')[i]
     $(index).attr('data-hour', [i]);
 }
+
+// update the text field of the Hour of the day div.
+for (i = 0; i < hour.length; i++){
+    var index = $('.input-group-prepend')[i]
+    $(index).text(hour[i])
+}
