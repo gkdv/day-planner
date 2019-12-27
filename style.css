@@ -18,3 +18,11 @@
 .save-content{
     text-align: center;
 }
+.form-control{
+    background:rgb(230, 230, 230);
+    border: none;
+}
+.content-box{
+    padding-left: 0%;
+    padding-right: 0%;
+}
